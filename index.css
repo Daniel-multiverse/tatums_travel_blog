@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: white ;
+    background-image: url("https://imgs.search.brave.com/kaLr2T-gVF2Q4lSlFpJI5gfdf8ZjYmhypBRdb-xhDxE/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5k/ZVg4TGJNVFp0SVRh/MjdtRlRLQmJRSGFF/OCZwaWQ9QXBp")
+}
+
+img {
+    display: block;
+    margin-bottom:  15px;
+    border-radius: 3%;
+    
+}
+
+body {
+    margin-left: 50px;
+    background-color:#55828B ;
+    font-size: large;
+    font-family: nint;
+}
+
+header{
+    text-align: center;
+}
+
+
+
+
+
